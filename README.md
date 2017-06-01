@@ -14,6 +14,10 @@ npm install react-native-animatable --save
 npm install react-native-image-header-scroll-view --save
 
 react-native run-android
-
-
 ```
+
+### Todo
+* FAB position (react-native-action-button does not seem to support inline buttons)
+* Check metrics & ratio
+ * 	https://material.io/guidelines/layout/metrics-keylines.html#metrics-keylines-keylines-spacing
+ *  https://material.io/guidelines/layout/metrics-keylines.html#metrics-keylines-ratio-keylines
