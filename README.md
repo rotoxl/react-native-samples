@@ -15,6 +15,11 @@ npm install react-native-vector-icons --save #//check required manual step at ht
 npm install react-native-animatable --save
 npm install react-native-image-header-scroll-view --save
 ```
+1b. Complete ```react-native-vector-icons``` installation. Edit ```android/app/build.gradle``` (NOT ```android/build.gradle```) and add the following:
+
+```
+apply from: "../../node_modules/react-native-vector-icons/fonts.gradle"
+```
 
 2. Copy ```aliconnors.js``` && ```res``` folder
 
