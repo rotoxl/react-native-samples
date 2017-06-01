@@ -47,11 +47,12 @@ AppRegistry.registerComponent('AwesomeProject', () => AwesomeProject);
 react-native run-android
 
 ```
+### problems you may face
+* Weird icons? Double check the extra step required by react-native-vector-icons (https://github.com/oblador/react-native-vector-icons#installation)
 
-
-### Todo
+### todo
 * Migrate existing icon-images to react-native-vector-icons
 * FAB position (react-native-action-button does not seem to support inline buttons)
 * Check metrics & ratio
- * 	https://material.io/guidelines/layout/metrics-keylines.html#metrics-keylines-keylines-spacing
- *  https://material.io/guidelines/layout/metrics-keylines.html#metrics-keylines-ratio-keylines
+  * 	https://material.io/guidelines/layout/metrics-keylines.html#metrics-keylines-keylines-spacing
+  *  https://material.io/guidelines/layout/metrics-keylines.html#metrics-keylines-ratio-keylines
