@@ -54,5 +54,5 @@ react-native run-android
 * Migrate existing icon-images to react-native-vector-icons
 * FAB position (react-native-action-button does not seem to support inline buttons)
 * Check metrics & ratio
-  * 	https://material.io/guidelines/layout/metrics-keylines.html#metrics-keylines-keylines-spacing
-  *  https://material.io/guidelines/layout/metrics-keylines.html#metrics-keylines-ratio-keylines
+  *	https://material.io/guidelines/layout/metrics-keylines.html#metrics-keylines-keylines-spacing
+  * https://material.io/guidelines/layout/metrics-keylines.html#metrics-keylines-ratio-keylines
