@@ -1,6 +1,6 @@
 ## Alli Connors' Contact Screen
 ### target & result
-![Target](https://raw.githubusercontent.com/rotoxl/react-native-samples/master/screenshots/aliconnors-target.jpg "Target") ![Result](https://github.com/rotoxl/react-native-samples/blob/master/screenshots/aliconnors-result.gif?raw=true "Result")
+![Target](https://raw.githubusercontent.com/rotoxl/react-native-samples/master/aliconnors/screenshots/aliconnors-target.jpg "Target") ![Result](https://raw.githubusercontent.com/rotoxl/react-native-samples/master/aliconnors/screenshots/aliconnors-result.gif?raw=true "Result")
 
 ### create project & add stuff
 
