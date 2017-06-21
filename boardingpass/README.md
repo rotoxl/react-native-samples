@@ -1,6 +1,6 @@
 ## Alli Connors' Contact Screen
 ### target & result
-![Target](https://raw.githubusercontent.com/rotoxl/react-native-samples/master/boardingpass/screenshots/boardingPass-target.jpg "Target") ![Result](https://raw.githubusercontent.com/rotoxl/react-native-samples/master/boardingpass/screenshots/boardingPass-result.gif?raw=true "Result")
+![Target](https://raw.githubusercontent.com/rotoxl/react-native-samples/master/boardingpass/screenshots/boardingPass-target.jpg "Target") ![Result](https://raw.githubusercontent.com/rotoxl/react-native-samples/master/boardingpass/screenshots/boardingPass-result.png "Result")
 
 ### create project & add stuff
 
