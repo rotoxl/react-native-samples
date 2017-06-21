@@ -5,15 +5,14 @@
 ### create project & add stuff
 
 1. Create project
-
 ```shell
 react-native init AwesomeProject
 cd AwesomeProject
 ```
 
-3. Copy ```boardingpass.js``` && ```res``` folder
+2. Copy ```boardingpass.js``` && ```res``` folder
 
-4. Edit ```index.ios.js``` as follows:
+3. Edit ```index.ios.js``` as follows:
 
 ```javascript
 import React, { Component } from 'react';
@@ -35,12 +34,13 @@ export default class AwesomeProject extends Component {
 AppRegistry.registerComponent('AwesomeProject', () => AwesomeProject);
 ```
 
-5. Run
+4. Run
 
 ```shell
 react-native run-ios
 
 ```
-### problems you may face
 
 ### todo
+* Fix font
+* Back side & maybe flip animation
